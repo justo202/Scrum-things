@@ -1,0 +1,14 @@
+PC Cost Calculations
+
+PC = £699.99
+Monitor = £87.99
+Mouse = £6.99
+Keyboard = £14.99
+
+Full Setup = PC + Monitor + Mouse + Keyboard = £809.96
+
+Lab = 24 X Full Setup = £19,439.04
+
+*7 X Labs = £136,073.28
+
+*2 PCs in front office = £1619.92
